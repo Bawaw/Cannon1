@@ -1,0 +1,23 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\bin\Debug\Cannon1.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\bin\Debug\Cannon1.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\Cannon1.Form1.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\Cannon1.Properties.Resources.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\Cannon1.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Cannon1\obj\x86\Debug\Cannon1.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\Cannon1.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\Cannon1.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\player.png
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\projectile.png
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\target.png
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\Cannon1.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\Cannon1.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\Cannon1.Form1.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\Cannon1.Properties.Resources.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\lives.png
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Cannon1\Cannon1\bin\Debug\title_screen.png
